@@ -11,11 +11,11 @@ export default function Contact() {
       </p>
       <div className="phone-email-container">
         <div className="phone-box">
-          <img src="assets/phone-solid.svg" alt="phone" />
+          <img src="./assets/phone-solid.svg" alt="phone" />
           <a href="tel:+905010327500">+90 501 032 7500</a>
         </div>
         <div className="email-box">
-          <img src="assets/envelope-solid.svg" alt="email" />
+          <img src="./assets/envelope-solid.svg" alt="email" />
           <a href="mailto:bindalserkan26@gmail.com">bindalserkan26@gmail.com</a>
         </div>
       </div>

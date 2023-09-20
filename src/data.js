@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "HTML5 / CSS3 / Vanilla JS",
     description:
       "In this small project, I've focused on writing semantic and accessible markup, using Flexbox layout and implementing mobile-first workflow approach",
-    image: "assets/first-state.png",
+    image: "./assets/first-state.png",
     link: "https://google.com",
   },
   {
@@ -12,7 +12,7 @@ export const projects = [
     subtitle: "HTML5 / CSS3 / React.js",
     description:
       "My intention was to provide a visually appealing and handy 'To Do App' in which the useState and useEffect hooks are effectively applied",
-    image: "assets/my-todo-app.png",
+    image: "./assets/my-todo-app.png",
     link: "https://google.com",
   },
   {
@@ -20,7 +20,7 @@ export const projects = [
     subtitle: "HTML / CSS3 / React.js / API",
     description:
       "Utilizing the OpenWeatherMap API, the app fetches the real time weather info for the city you type while offering responsive and user-friendly design",
-    image: "assets/weather-app.png",
+    image: "./assets/weather-app.png",
     link: "https://google.com",
   },
   {
@@ -28,7 +28,7 @@ export const projects = [
     subtitle: "HTML5 / CSS3 / React.js / React Router",
     description:
       "This is exactly where you are in now. The project makes use of React Router to provide Single Page App (SPA) telling something about me👨🏽‍💻",
-    image: "assets/my-portfolio.png",
+    image: "./assets/my-portfolio.png",
     link: "https://google.com",
   },
 ];
