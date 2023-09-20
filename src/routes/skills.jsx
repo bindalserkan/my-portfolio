@@ -14,7 +14,7 @@ export default function Skills() {
           <h1>Behavioral Skills</h1>
           {skills.behavioralSkills.map((behavioralSkill) => (
             <div key={behavioralSkill} className="behavioral-box">
-              <img src="/assets/badge-check-icon.svg" alt="checked" />
+              <img src="assets/badge-check-icon.svg" alt="checked" />
               <div>{behavioralSkill}</div>
             </div>
           ))}
@@ -23,7 +23,7 @@ export default function Skills() {
           <h1>Technical Skills</h1>
           {skills.technicalSkills.map((technicalSkill) => (
             <div key={technicalSkill} className="technical-box">
-              <img src="/assets/badge-check-icon.svg" alt="checked" />
+              <img src="assets/badge-check-icon.svg" alt="checked" />
               <div>{technicalSkill}</div>
             </div>
           ))}
@@ -32,7 +32,7 @@ export default function Skills() {
           <h1>Tools</h1>
           {skills.tools.map((tool) => (
             <div key={tool} className="tool-box">
-              <img src="/assets/badge-check-icon.svg" alt="checked" />
+              <img src="assets/badge-check-icon.svg" alt="checked" />
               <div>{tool}</div>
             </div>
           ))}

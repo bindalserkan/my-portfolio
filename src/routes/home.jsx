@@ -5,7 +5,7 @@ export default function Home() {
         <img
           className="my-image"
           alt="serkan-bindal"
-          src="/assets/my-photo.png"
+          src="assets/my-photo.png"
         />
         <div className="home-content">
           <h1>
