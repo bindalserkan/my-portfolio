@@ -5,11 +5,13 @@ import Skills from "./routes/skills";
 import PastWork from "./routes/pastwork";
 import Contact from "./routes/contact";
 import "./App.css";
-import Footer from "./Footer";
+import Footer from "./footer";
+import ScrollToTop from "./scrollToTop";
 
 export default function App() {
   return (
     <div className="app">
+      <ScrollToTop />
       <div className="nav-menu-container">
         <nav className="nav-menu">
           <NavLink exact to={`/`} activeClassName="active-link">
