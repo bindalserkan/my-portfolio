@@ -5,7 +5,7 @@ export const projects = [
     description:
       "In this small project, I've focused on writing semantic and accessible markup, using Flexbox layout and implementing mobile-first workflow approach",
     image: "./assets/first-state.png",
-    link: "https://google.com",
+    link: "https://github.com/bindalserkan/interactive-rating-component",
   },
   {
     title: "To Do Application",
@@ -13,7 +13,7 @@ export const projects = [
     description:
       "My intention was to provide a visually appealing and handy 'To Do App' in which the useState and useEffect hooks are effectively applied",
     image: "./assets/my-todo-app.png",
-    link: "https://google.com",
+    link: "https://github.com/bindalserkan/my-todo-app",
   },
   {
     title: "Weather Application",
@@ -21,7 +21,7 @@ export const projects = [
     description:
       "Utilizing the OpenWeatherMap API, the app fetches the real time weather info for the city you type while offering responsive and user-friendly design",
     image: "./assets/weather-app.png",
-    link: "https://google.com",
+    link: "https://github.com/bindalserkan/weather-app",
   },
   {
     title: "Portfolio Website",
@@ -29,7 +29,7 @@ export const projects = [
     description:
       "This is exactly where you are in now. The project makes use of React Router to provide Single Page App (SPA) telling something about me👨🏽‍💻",
     image: "./assets/my-portfolio.png",
-    link: "https://google.com",
+    link: "https://bindalserkan.github.io/my-portfolio/",
   },
 ];
 
