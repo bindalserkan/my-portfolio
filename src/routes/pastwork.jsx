@@ -31,7 +31,7 @@ function Projects() {
           <img src={project.image} alt={project.title} />
           <h2>{project.subtitle}</h2>
           <p>{project.description}</p>
-          <a href="">View Project</a>
+          <a href={project.link} target="_blank" rel="noreferrer">View Project</a>
         </div>
       ))}
     </div>
