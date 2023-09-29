@@ -1,11 +1,27 @@
 export const projects = [
   {
-    title: "Basic Interactive Rating Componant",
-    subtitle: "HTML5 / CSS3 / Vanilla JS",
+    title: "Portfolio Website",
+    subtitle: "HTML5 / CSS3 / React.js / React Router",
     description:
-      "In this small project, I've focused on writing semantic and accessible markup, using Flexbox layout and implementing mobile-first workflow approach",
-    image: "./assets/first-state.png",
-    link: "https://github.com/bindalserkan/interactive-rating-component",
+      "This is exactly where you are in now. The project makes use of React Router to provide Single Page App (SPA) telling something about me👨🏽‍💻",
+    image: "./assets/my-portfolio.png",
+    link: "https://bindalserkan.github.io/my-portfolio/",
+  },
+  {
+    title: "Shopping Application",
+    subtitle: "HTML5 / Tailwind CSS / React.JS / Redux / Chakra UI",
+    description:
+      "This project aims to provide the state management of the application with Redux. It enables us to have many functionality in a central approach",
+    image: "./assets/shopping-app.png",
+    link: "https://github.com/bindalserkan/react-shopping-app",
+  },
+  {
+    title: "Weather Application",
+    subtitle: "HTML5 / CSS3 / React.JS / API",
+    description:
+      "Utilizing the OpenWeatherMap API, the app fetches the real time weather info for the city you type while offering responsive and user-friendly design",
+    image: "./assets/weather-app.png",
+    link: "https://github.com/bindalserkan/weather-app",
   },
   {
     title: "To Do Application",
@@ -16,20 +32,12 @@ export const projects = [
     link: "https://github.com/bindalserkan/my-todo-app",
   },
   {
-    title: "Weather Application",
-    subtitle: "HTML / CSS3 / React.js / API",
+    title: "Basic Interactive Rating Componant",
+    subtitle: "HTML5 / CSS3 / Vanilla JS",
     description:
-      "Utilizing the OpenWeatherMap API, the app fetches the real time weather info for the city you type while offering responsive and user-friendly design",
-    image: "./assets/weather-app.png",
-    link: "https://github.com/bindalserkan/weather-app",
-  },
-  {
-    title: "Portfolio Website",
-    subtitle: "HTML5 / CSS3 / React.js / React Router",
-    description:
-      "This is exactly where you are in now. The project makes use of React Router to provide Single Page App (SPA) telling something about me👨🏽‍💻",
-    image: "./assets/my-portfolio.png",
-    link: "https://bindalserkan.github.io/my-portfolio/",
+      "In this small project, I've focused on writing semantic and accessible markup, using Flexbox layout and implementing mobile-first workflow approach",
+    image: "./assets/first-state.png",
+    link: "https://github.com/bindalserkan/interactive-rating-component",
   },
 ];
 
